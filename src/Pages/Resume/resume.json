@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "David Townsend",
+    "label": "QA Engineer/Animator",
+    "picture": "src/Assets/David.jpg",
+    "email": "dtownsend90@gmail.com",
+    "phone": "1-415-935-4825",
+    "website": "http://insidedtsbrain.com",
+    "summary": "",
+    "location": {
+      "address": "downtown San Francisco",
+      "postalCode": "94108",
+      "city": "San Francisco",
+      "countryCode": "USA",
+      "region": "california"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Oculus",
+      "position": "QA integration Engineer (Infostar Contractor)",
+      "website": "https://www.oculus.com",
+      "startDate": "2015-02-02",
+      "endDate": "",
+      "summary": "Worked with the Oculus Integration Engineering team to test software and hardware developer tools",
+      "highlights": [
+        "Develop test plans for Unity and UE4 Oculus Integration",
+        "Execute created test plans",
+        "Work with Oculus Unity and UE4 internal developers"
+      ]
+    },
+    {
+      "company": "Facebook",
+      "position": "QA iOS Engineer (Infostar Contractor)",
+      "website": "https://www.facebook.com",
+      "startDate": "2014-06-14",
+      "endDate": "2015-02-02",
+      "summary": "",
+      "highlights": [
+        "Write and execute test plans for iOS, Android and Windows devices",
+        "Document QA procedures",
+        "Black box ad hoc testing"
+      ]
+    },
+    {
+      "company": "Viggle",
+      "position": "QA Engineer",
+      "website": "http://viggle.tv/home",
+      "startDate": "2012-02-01",
+      "endDate": "2013-07-31",
+      "summary": "",
+      "highlights": [
+        "Wrote test plans for Viggle and MyGuy app",
+        "Performed blackbox testing on Viggle and MyGuy app",
+        "Entered and regressed bugs in Jira",
+        "Interacted with developers on a daily basis"
+      ]
+    },
+    {
+      "company": "Loyalize.com",
+      "position": "QA Tester",
+      "website": "",
+      "startDate": "2011-04-01",
+      "endDate": "2012-01-04",
+      "summary": "",
+      "highlights": [
+        "Wrote and executed test plans on web portals and mobile apps",
+        "Provided first level of customer support to Loyalize clients"
+      ]
+    },
+    {
+      "company": "The Orphange",
+      "position": "Resource Administrator",
+      "website": "",
+      "startDate": "2007-12-01",
+      "endDate": "2009-02-28",
+      "summary": "",
+      "highlights": [
+        "Performed comprehensive quality checks on dailies",
+        "Troubleshoot artist render problems",
+        "Helped with server maintenance",
+        "Used Irush to manage The Orphanage render farm"
+      ]
+    },
+    {
+      "company": "Lucasarts",
+      "position": "QA Tester",
+      "website": "",
+      "startDate": "2007-03-10",
+      "endDate": "2007-03-10",
+      "summary": "",
+      "highlights": [
+        "Performed quality assurance on builds of Thrillville 07, if bugs were found enter them into Devtrak",
+        "Write test plans for Thrillvile 07 in Excel spreadsheets",
+        "Platforms worked on Wii, Xbox360, PS2, PSP, PC and DS",
+        "Regressed bugs found by third party QA sub-contractors located Canada"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Academy of Art University",
+      "area": "Computer Animation",
+      "studyType": "Masters (Unfinshed)",
+      "startDate": "2003",
+      "endDate": "2007",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Syracuse University",
+      "area": "Computer Graphics",
+      "studyType": "Bachelor of Art",
+      "startDate": "1998",
+      "endDate": "2003",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+     {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Maya",
+        "Mel",
+        "Python",
+        "Adobe Premier",
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "Modo",
+        "Lightwave",
+        "Microsoft Office",
+        "PC",
+        "OSX",
+        "Jira",
+        "Unity",
+        "UE4"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
